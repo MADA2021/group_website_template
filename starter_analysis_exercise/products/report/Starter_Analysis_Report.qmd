@@ -1,5 +1,5 @@
 ---
-title: "Example Manuscript Template for a Data Analysis Project"
+title: "Manuscript/Report Template for a Data Analysis Project"
 subtitle: ""
 author: Andreas Handel
 date: "`r Sys.Date()`"
@@ -86,7 +86,7 @@ Note the loading of the data providing a **relative** path using the `../../` no
 #| label: tbl-summarytable
 #| tbl-cap: "Data summary table."
 #| echo: FALSE
-resulttable=readRDS("../../results/tables-files/summarytable.rds")
+resulttable=readRDS("../../results/tables_files/summarytable.rds")
 knitr::kable(resulttable)
 ```
 
@@ -117,7 +117,7 @@ Example @tbl-resulttable2 shows a summary of a linear model fit.
 #| label: tbl-resulttable2
 #| tbl-cap: "Linear model fit table."
 #| echo: FALSE
-resulttable2 = readRDS(here("starter_analysis_exercise","results","tables-files","resulttable2.rds"))
+resulttable2 = readRDS(here("starter_analysis_exercise","results","tables_files","resulttable2.rds"))
 knitr::kable(resulttable2)
 ```
 

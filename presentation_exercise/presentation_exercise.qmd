@@ -1,8 +1,8 @@
 ---
-title: "Visualization Exercise"
+title: "Presentation Exercise"
 output:
   html_document:
     toc: FALSE
 ---
 
-Placeholder file for the future visualization exercise.
+Placeholder file for the future data/results presentation exercise.
