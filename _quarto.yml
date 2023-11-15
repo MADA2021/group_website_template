@@ -3,19 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "My Data Analysis Portfolio"
+  title: "YOURNAME Data Analysis Portfolio"
   navbar:
     left:
       - text: "About Me"
         href: ./aboutme.html
       - text: "Projects"
         menu:
+          - text: "Starter Analysis Exercise"
+            href: ./starter_analysis_exercise/starter_analysis_exercise.html
           - text: "R Coding Exercise"
-            href: ./coding_exercise.html
+            href: ./coding_exercise/coding_exercise.html
           - text: "Visualization Exercise"
             href: ./visualization_exercise.html
           - text: "Tidy Tuesday Exercise"
-            href: ./tidytuesday_exercise.html
+            href: ./tidytuesday_exercise/tidytuesday_exercise.html
     right:
       - icon: github 
         href: URL-TO-THIS-REPOSITORY-HERE        
