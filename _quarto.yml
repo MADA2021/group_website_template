@@ -11,11 +11,11 @@ website:
       - text: "Projects"
         menu:
           - text: "Starter Analysis Exercise"
-            href: ./starter_analysis_exercise/starter_analysis_exercise.html
+            href: ./starter_analysis_exercise/products/report/Starter_Analysis_Report.html
           - text: "R Coding Exercise"
             href: ./coding_exercise/coding_exercise.html
-          - text: "Visualization Exercise"
-            href: ./visualization_exercise.html
+          - text: "Presentation Exercise"
+            href: ./presentation_exercise/presentation_exercise.html
           - text: "Tidy Tuesday Exercise"
             href: ./tidytuesday_exercise/tidytuesday_exercise.html
     right:

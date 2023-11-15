@@ -1,4 +1,4 @@
-This folder contains code to do some simple exploratory analysis on the processed/cleaned data.
+This folder contains code to do some simple exploratory analysis and statistical analysis on the processed/cleaned data.
 The code produces a few tables and figures, which are saved in the `results` folder.
 
 It's the same code done 3 times:
