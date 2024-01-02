@@ -11,7 +11,7 @@ website:
       - text: "Projects"
         menu:
           - text: "Starter Analysis Exercise"
-            file: starter-analysis-exercise/products/report/atarter-analysis-report.qmd
+            file: starter-analysis-exercise/products/report/starter-analysis-report.qmd
           - text: "R Coding Exercise"
             file: coding-exercise/coding-exercise.qmd
           - text: "Presentation Exercise"
