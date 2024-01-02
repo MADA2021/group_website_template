@@ -7,17 +7,17 @@ website:
   navbar:
     left:
       - text: "About Me"
-        href: ./aboutme.html
+        file: aboutme.qmd
       - text: "Projects"
         menu:
           - text: "Starter Analysis Exercise"
-            href: ./starter_analysis_exercise/products/report/Starter_Analysis_Report.html
+            file: starter-analysis-exercise/products/report/atarter-analysis-report.qmd
           - text: "R Coding Exercise"
-            href: ./coding_exercise/coding_exercise.html
+            file: coding-exercise/coding-exercise.qmd
           - text: "Presentation Exercise"
-            href: ./presentation_exercise/presentation_exercise.html
+            file: presentation-exercise/presentation-exercise.qmd
           - text: "Tidy Tuesday Exercise"
-            href: ./tidytuesday_exercise/tidytuesday_exercise.html
+            file: tidytuesday-exercise/tidytuesday-exercise.qmd
     right:
       - icon: github 
         href: URL-TO-THIS-REPOSITORY-HERE        
