@@ -1,8 +1,8 @@
 ---
 title: "Manuscript/Report Template for a Data Analysis Project"
 subtitle: ""
-author: Andreas Handel
-date: "`r Sys.Date()`"
+author: Your Name
+date: today
 format:
   html:
     toc: false
