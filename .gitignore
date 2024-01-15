@@ -3,4 +3,8 @@
 .RData
 .Ruserdata
 
+# MacOS .DS_Store file does not provide anything useful to collaborators and
+# causes conflicts between Mac users
+.DS_Store
+
 /.quarto/
